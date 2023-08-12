@@ -3,7 +3,8 @@ export default [
     id: 1,
     title: "Mount Fuji",
     location: "Japan",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    googleMapsUrl:
+      "https://earth.google.com/web/search/Mount+Fuji,+Kitayama,+Fujinomiya,+Shizuoka,+Japan/@35.360625,138.7273634,3772.04769706a,4381.21387038d,35y,0h,45t,0r/data=CpwBGnISbAolMHg2MDE5NjI5YTQyZmRjODk5OjB4YTZhMWZjYzkxNmYzYTRkZhlETfT5KK5BQCHW6ZuPRldhQCoxTW91bnQgRnVqaSwgS2l0YXlhbWEsIEZ1amlub21peWEsIFNoaXp1b2thLCBKYXBhbhgCIAEiJgokCYfMxwaG7EDAEV0HuQFO7kDAGSkXOewJ52JAIYagquWX5mJAKAI",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
     description:
@@ -14,7 +15,8 @@ export default [
     id: 2,
     title: "Sydney Opera House",
     location: "Australia",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    googleMapsUrl:
+      "https://earth.google.com/web/search/Sydney+Opera+House,+Sydney+NSW,+Australia/@-33.8567844,151.2152967,9.95445445a,859.55155255d,35y,0h,45t,0r/data=CpQBGmoSZAolMHg2YjEyYWU2NjVlODkyZmRkOjB4MzEzM2Y4ZDc1YTFhYzI1MRmK3Hgcq-1AwCH5ree14-ZiQCopU3lkbmV5IE9wZXJhIEhvdXNlLCBTeWRuZXkgTlNXLCBBdXN0cmFsaWEYAiABIiYKJAl8-MvKARRPQBGjYUAayQZPQBlC8adzjzgdQCEW5HPmeWEbQCgC",
     startDate: "27 May, 2021",
     endDate: "8 Jun, 2021",
     description:
@@ -25,7 +27,8 @@ export default [
     id: 3,
     title: "Geirangerfjord",
     location: "Norway",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    googleMapsUrl:
+      "https://earth.google.com/web/search/Geirangerfjord,+Stranda+Municipality,+Norway/@62.1048487,7.07521315,711.52195763a,17401.97127275d,35y,0h,0t,0r/data=CpcBGm0SZwolMHg0NjE2OWQ0MjdiMjY4YzUxOjB4YjhjOTk1NDBkY2MzOTdmZRmELAsm_gxPQCG7mwL0VmAcQCosR2VpcmFuZ2VyZmpvcmQsIFN0cmFuZGEgTXVuaWNpcGFsaXR5LCBOb3J3YXkYAiABIiYKJAm4cv0AbGhRQBGWSKd-JRxQQBnkXzxFA7hEQCFXk7afp0EiQA",
     startDate: "01 Oct, 2021",
     endDate: "18 Nov, 2021",
     description:
@@ -36,7 +39,8 @@ export default [
     id: 4,
     title: "Lapland",
     location: "Finland",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    googleMapsUrl:
+      "https://earth.google.com/web/search/Lapland,+Finland/@67.69238765,25.2829159,207.84391879a,903665.37386115d,35y,0h,0t,0r/data=CnsaURJLCiUweDQ1ZDMwMDM2MjU0Y2ExNDU6MHhjZWRjNGViMzBkOTFhY2ExGSHYp9IF-1BAIREhCVYwgTpAKhBMYXBsYW5kLCBGaW5sYW5kGAIgASImCiQJCZnvIv8nQUARDMkBnwhhQEAZS-6K9JIPYEAh4BXFSoYkX0A",
     startDate: "12 Feb, 2021",
     endDate: "24 Jan, 2022",
     description:
