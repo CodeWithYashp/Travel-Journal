@@ -8,7 +8,7 @@ export default function Card(props) {
         <div className="card--location">
           <img src="/location.png" alt="" className="location--icon" />
           <p className="location_name">{props.item.location}</p>
-          <a href="{props.item.googleMapsUrl}" className="location_text">
+          <a href={props.item.googleMapsUrl} className="location_text">
             View On Google Maps
           </a>
         </div>
